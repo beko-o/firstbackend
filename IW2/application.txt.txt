@@ -1,0 +1,3 @@
+I want to create an online hostel interface,
+where the user can reservate(book) a place in a hostel for several days.
+Entities: User, Admin, Room, Date, Reservation.

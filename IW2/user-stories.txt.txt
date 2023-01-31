@@ -1,0 +1,18 @@
+As a user, I can choose which rooms to book.
+As a user, I can choose the room type. (vip, lux, eco)
+As a user, I can choose the period of the reservation.
+As a user, I can register.
+As a user, I can re-register.
+As a user, I can cancel a booking or confirm a booking.
+As a user, I can pay for services.
+As a user, I can leave a complaint/request.
+As an admin, I can remove/ban a user.
+As an admin, I can cancel a booking.
+As an admin, I can change room prices.
+As an admin, I can add a room type.
+As an admin, I can add the number of rooms.
+As an admin, I can edit the number and type of rooms.
+As an admin, I can make rooms inaccessible. (in case of cleaning/remont)
+
+ps: i have 2 users so... so it is
+
